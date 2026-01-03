@@ -8,7 +8,7 @@ It includes the cargo package manager which allows us to compile the project aft
 The purpose of creating the small programs is becoming acquainted with Rust so I can then work on more complex projects.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MBlCzlMrnYk)
 
 # Development Environment
 
