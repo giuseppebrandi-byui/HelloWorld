@@ -18,5 +18,5 @@ The programming language used in this project is Rust. Rust is known for its rel
 
 # Useful Websites
 
-* [YouTube](https://www.youtube.com/watch?v=rQ_J9WH6CGk&list=LL&index=13&t=836s)
+* [YouTube: Rust Programming Full Course](https://www.youtube.com/watch?v=rQ_J9WH6CGk&list=LL&index=13&t=836s)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/getting-started/first-steps.html)
