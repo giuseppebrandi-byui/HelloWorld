@@ -1,23 +1,22 @@
 # Overview
+As a software engineer I am trying to learn additional programming languages such as Rust. In this project, I am developing a simple application to print Hello World!.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of your software}
+My software includes a 'main' function (entry point) and print_hello_world function to print 'Hello World!' in the terminal.
+It includes the cargo package manager which allows us to compile the project after we have made changes in the code by running the command 'cargo run'. 
 
-{Describe your purpose for creating this software.}
+The purpose of creating the small programs is becoming acquainted with Rust so I can then work on more complex projects.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To create this project, I have used the Visual Studio Code.
 
-{Describe the programming language that you used}
+The programming language used in this project is Rust. Rust is known for its reliability, performance, and productivity.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [YouTube](https://www.youtube.com/watch?v=rQ_J9WH6CGk&list=LL&index=13&t=836s)
+* [The Cargo Book](https://doc.rust-lang.org/cargo/getting-started/first-steps.html)
